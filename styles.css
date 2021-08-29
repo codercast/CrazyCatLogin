@@ -377,6 +377,7 @@
   /** Master Container **/
   .container {
     display: flex;
+    min-width: 800px;
   }
   
   .left-column {
